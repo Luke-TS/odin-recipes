@@ -1,0 +1,22 @@
+body.main {
+    text-align: center;
+}
+
+.header {
+    font-size: 48px;
+    background-color: yellow;
+    color: #ff0000;
+}
+
+#main-header {
+    font-size:64px;
+}
+
+#main-list {
+    display: inline-block;
+    text-align: left;
+}
+
+a {
+    color:aqua;
+}
